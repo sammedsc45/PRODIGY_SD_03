@@ -7,7 +7,6 @@ A Java program for solving 9x9 Sudoku puzzles using a backtracking algorithm. Th
 - [Getting Started](#getting-started)
 - [How to Use](#how-to-use)
 - [Example Input/Output](#example-inputoutput)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
