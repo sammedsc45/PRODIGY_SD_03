@@ -86,9 +86,3 @@ No solution exists.
 ```
 ## License
 This project is licensed under the MIT License
-```vbnet
-
-Remember to replace placeholders like `your-username` and `your-feature` with appropriate values specific to your GitHub repository and project structure.
-
-This README provides an overview of your Sudoku Solver project, instructions for getting started, usage examples, guidelines for contributions, and information about the license under which your project is distributed. Feel free to customize it further to suit your project's needs.
-```
